@@ -5,4 +5,4 @@ Hi there 👋 I'm Kingsley Atuba
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with getting jobs
 - 💬 Ask me about abything
-- 📫 How to reach me: +2348189174570
+- 📫 How to reach me: +2348189174570, atubak40@gmail.com
