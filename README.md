@@ -1,7 +1,7 @@
 Hi there 👋 I'm Kingsley Atuba
 
 - 🔭 I’m currently working on Python Applications
-- 🌱 I’m currently learning Python
+- 🌱 I’m have lots of completed React and Javascript projects 
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with getting jobs
 - 💬 Ask me about abything
