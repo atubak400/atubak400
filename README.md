@@ -1,6 +1,6 @@
 Hi there 👋 I'm Kingsley Atuba
 
-- 🔭 I’m currently working on Python Applications
+- 🔭 I’m currently working on a Simple Wallet Python Application
 - 🌱 I’m have lots of completed React and Javascript projects 
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with getting jobs
